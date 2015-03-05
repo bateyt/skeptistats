@@ -11,4 +11,4 @@ KnitPost <- function(input, base.url = myjekyllsite) {
 }
 
 # be sure to edit file name for the original RMarkdown file
-KnitPost("~/skeptistats/_assets/rmds/2015-03-04-testpost.Rmd")
+KnitPost("~/GitHub/skeptistats/_assets/rmds/2015-03-04-testpost.Rmd")
